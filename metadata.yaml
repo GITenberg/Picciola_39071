@@ -1,0 +1,49 @@
+_repo: Picciola_39071
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Jacob, Paul L.
+    - Dufour, Pierre
+    - Lacroix, Paul
+    - Jacob, Bibliophile
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xavier, M.
+    aliases:
+    - Saintine, X. B.
+    - Boniface, Joseph-Xavier
+    - Saintine, Joseph-Xavier Boniface
+    birthdate: 1798
+    deathdate: 1865
+    gutenberg_agent_id: '3984'
+    url: http://www.gutenberg.org/2009/agents/3984
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Joseph_Xavier_Saintine
+    - http://fr.wikipedia.org/wiki/Saintine
+description: ''
+gutenberg_bookshelf:
+- FR Droit et Justice
+- FR Littérature
+gutenberg_issued: '2012-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39071'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+title: Picciola
+url: http://www.gutenberg.org/ebooks/39071
