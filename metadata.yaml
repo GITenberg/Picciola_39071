@@ -31,6 +31,8 @@ creator:
     - http://en.wikipedia.org/wiki/Joseph_Xavier_Saintine
     - http://fr.wikipedia.org/wiki/Saintine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39071#Picciola
 gutenberg_bookshelf:
 - FR Droit et Justice
 - FR Littérature
